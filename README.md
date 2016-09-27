@@ -1,2 +1,2 @@
-# sourcefolio
-Easy, beautiful portfolios for developers
+# Sourcefolio
+Easy, beautiful portfolios for developers. Built with Python, JavaScript and the Force.
