@@ -1,0 +1,6 @@
+{
+  "name": "Sourcefolio",
+  "tagline": "Easy, beautiful portfolios for developers. Built with Python, JavaScript and the Force.",
+  "body": "### What is Sourcefolio?\r\nSourcefolio is a free online tool for developers to generate easy, beautiful, version-controlled resumes for themselves. Your data is hosted by Github (for now) in an online repository in JSON format, our platform captures this data and generates an online portfolio that can be accessed by your potential employers anywhere. No more nightmare-to-format docx files or mail attachments. Just generate a simple custom URL and an accompanying JSON file containing your data and you're all set.\r\n\r\n### Why would I need this?\r\nDo you love formatting word documents, frequently editing your resume for different scenarios and ending up with multiple word docs, attaching stuff to your mail, making your employer download said attachments, having your content messed up because the target machine didn't support your fancy font or template? We neither. Plus, it's online and highly available at all times. \r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
